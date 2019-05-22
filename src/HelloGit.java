@@ -1,5 +1,5 @@
 public class HelloGit {
     public static void main(String[]args){
-        System.out.println("github测试成gt功");
+        System.out.println("github测试gtgt成gt功");
     }
 }
