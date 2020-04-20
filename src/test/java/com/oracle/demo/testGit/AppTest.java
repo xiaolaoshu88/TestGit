@@ -14,7 +14,9 @@ public class AppTest
      */
     @Test
     public void shouldAnswerWithTrue()
+    
     {
+    	System.out.println("你好我好大家好");
         assertTrue( true );
     }
 }
